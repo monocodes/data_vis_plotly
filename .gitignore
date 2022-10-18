@@ -5,6 +5,7 @@ __pycache__/
 # directories
 .vscode/
 images/
+html/
 
 # General
 .DS_Store
