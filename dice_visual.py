@@ -30,4 +30,4 @@ my_layout = Layout(
     title='Results of rolling two D6 dice 1000 times',
     xaxis=x_axis_config, yaxis=y_axis_config)
 offline.plot(
-    {'data': data, 'layout': my_layout}, filename='html/d6_d6.html')
+    {'data': data, 'layout': my_layout}, filename='results/d6_d6.html')
